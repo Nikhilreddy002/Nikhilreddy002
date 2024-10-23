@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Reddy </h1>
 
-
+<h1 style="color:blue"> WEB DEVELOPER AND DATA SCIENCE</h1>
 - 🌱 I’m currently learning **Full Stack Web Development with JAVA**.
   
 - I have completed **Machine Learning with Python.**
